@@ -1,0 +1,21 @@
+# Node.js
+node_modules/
+npm-debug.log
+
+# Environment variables
+.env
+
+# IDE
+.vscode/
+.idea/
+
+# Build directories
+dist/
+build/
+
+# macOS
+.DS_Store
+
+# Client
+/client/dist/
+/client/node_modules/
