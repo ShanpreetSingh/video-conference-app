@@ -1,5 +1,5 @@
 import React, { useState, useRef, useEffect } from 'react';
-import { Send, X, Smile } from 'lucide-react';
+import { Send, X } from 'lucide-react';
 import { ChatMessage } from '../types/mediasoup';
 
 interface ChatPanelProps {
